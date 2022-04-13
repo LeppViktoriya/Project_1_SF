@@ -1,11 +1,12 @@
 # Проект 1. Анализ вакансий на hh.ru
 
 ## Оглавление
-[1. Описание проекта]()
-[2. Какой кейс решаем?](https://github.com/LeppViktoriya/Project_1_SF/blob/main)
-[3. Краткая ифнормация о данных](https://github.com/LeppViktoriya/Project_1_SF/blob/main)
-[4. Этапы работы над проектом](https://github.com/LeppViktoriya/Project_1_SF/blob/main)
-[5. Результат](https://github.com/LeppViktoriya/Project_1_SF/blob/main)
+1. Описание проекта
+2. Какой кейс решаем?
+3. Краткая ифнормация о данных
+4. Этапы работы над проектом
+5. Результат
+6. Ссылки на диаграммы
 
 ### Описание проекта
 Провести анализ резюме, поданных на сайте поиска работы hh.ru, выявить зависимости, сделать выводы.
@@ -63,4 +64,13 @@
     :arrow_up:[к оглавлению]() 
 
 ### Результат
-Таким образом, над исходным дата сетом был проведен ряд преобразований, удалено некоторое количество информации, которое не несло статистической значимости, построены графики зависимости различных признаков друг от друга.    
+Таким образом, над исходным дата сетом был проведен ряд преобразований, удалено некоторое количество информации, которое не несло статистической значимости, построены графики зависимости различных признаков друг от друга. 
+
+### Ссылки на диагрмммы
+https://drive.google.com/file/d/1shXpQpQzmosyddnm-X9CD5MCMlf8EJ7f/view?usp=sharing - распределение признака возраст
+https://drive.google.com/file/d/1debmxotpBAikloq3RxrTAKN4Sjo5q2h7/view?usp=sharing - распределение признака опыт работы
+https://drive.google.com/file/d/1DI7xSt7XDalYTj31a6LTeaz67L0j5i-r/view?usp=sharing - распределение признака ЗП
+https://drive.google.com/file/d/1DYMaJYqBK2--YJTRFZvl0DSSRgPGw2oT/view?usp=sharing - зависимость медианной ЗП от уровня образования
+https://drive.google.com/file/d/1T2Ov7gah3HGfJ6X1cEyCx-LopmLEldmd/view?usp=sharing - зависимость желаемой ЗП от города
+https://drive.google.com/file/d/1p8I8wgGCHJE_5Z-aZFn5jL8t0wRTDEKz/view?usp=sharing -  зависимость медианной ЗП от готовности к командировками и переездам
+https://drive.google.com/file/d/1OB1mQ5PsXo_BpToBW5L7UlD3Q-_WqwWs/view?usp=sharing - зависимость медианной ЗП, возраста и образования

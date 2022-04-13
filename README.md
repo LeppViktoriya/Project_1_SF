@@ -59,10 +59,10 @@
 Таким образом, над исходным дата сетом был проведен ряд преобразований, удалено некоторое количество информации, которое не несло статистической значимости, построены графики зависимости различных признаков друг от друга. 
 
 ### Ссылки на диагрмммы
-https://drive.google.com/file/d/1shXpQpQzmosyddnm-X9CD5MCMlf8EJ7f/view?usp=sharing - распределение признака возраст
-https://drive.google.com/file/d/1debmxotpBAikloq3RxrTAKN4Sjo5q2h7/view?usp=sharing - распределение признака опыт работы
-https://drive.google.com/file/d/1DI7xSt7XDalYTj31a6LTeaz67L0j5i-r/view?usp=sharing - распределение признака ЗП
-https://drive.google.com/file/d/1DYMaJYqBK2--YJTRFZvl0DSSRgPGw2oT/view?usp=sharing - зависимость медианной ЗП от уровня образования
-https://drive.google.com/file/d/1T2Ov7gah3HGfJ6X1cEyCx-LopmLEldmd/view?usp=sharing - зависимость желаемой ЗП от города
-https://drive.google.com/file/d/1p8I8wgGCHJE_5Z-aZFn5jL8t0wRTDEKz/view?usp=sharing -  зависимость медианной ЗП от готовности к командировками и переездам
-https://drive.google.com/file/d/1OB1mQ5PsXo_BpToBW5L7UlD3Q-_WqwWs/view?usp=sharing - зависимость медианной ЗП, возраста и образования
+    - https://drive.google.com/file/d/1shXpQpQzmosyddnm-X9CD5MCMlf8EJ7f/view?usp=sharing - распределение признака возраст
+    - https://drive.google.com/file/d/1debmxotpBAikloq3RxrTAKN4Sjo5q2h7/view?usp=sharing - распределение признака опыт работы
+    - https://drive.google.com/file/d/1DI7xSt7XDalYTj31a6LTeaz67L0j5i-r/view?usp=sharing - распределение признака ЗП
+    - https://drive.google.com/file/d/1DYMaJYqBK2--YJTRFZvl0DSSRgPGw2oT/view?usp=sharing - зависимость медианной ЗП от уровня образования
+    - https://drive.google.com/file/d/1T2Ov7gah3HGfJ6X1cEyCx-LopmLEldmd/view?usp=sharing - зависимость желаемой ЗП от города
+    - https://drive.google.com/file/d/1p8I8wgGCHJE_5Z-aZFn5jL8t0wRTDEKz/view?usp=sharing - зависимость медианной ЗП от готовности к командировками и переездам
+    - https://drive.google.com/file/d/1OB1mQ5PsXo_BpToBW5L7UlD3Q-_WqwWs/view?usp=sharing - зависимость медианной ЗП, возраста и образования
